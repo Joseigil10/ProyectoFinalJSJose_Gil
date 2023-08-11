@@ -17,7 +17,7 @@ const productos = [
     id: "abrigo-02",
     titulo: "Abrigo 02",
     img: {
-      src: "/images/abrigos/02.jpg",
+      src: "./images/abrigos/02.jpg",
     },
     categoria: {
       nombre: "Abrigos",
@@ -29,7 +29,7 @@ const productos = [
     id: "abrigo-03",
     titulo: "Abrigo 03",
     img: {
-      src: "../images/abrigos/03.jpg",
+      src: "./images/abrigos/03.jpg",
     },
     categoria: {
       nombre: "Abrigos",
@@ -41,7 +41,7 @@ const productos = [
     id: "abrigo-04",
     titulo: "Abrigo 04",
     img: {
-      src: "../images/abrigos/04.jpg",
+      src: "./images/abrigos/04.jpg",
     },
     categoria: {
       nombre: "Abrigos",
@@ -53,7 +53,7 @@ const productos = [
     id: "abrigo-05",
     titulo: "Abrigo 05",
     img: {
-      src: "../images/abrigos/05.jpg",
+      src: "./images/abrigos/05.jpg",
     },
     categoria: {
       nombre: "Abrigos",
@@ -66,7 +66,7 @@ const productos = [
     id: "shirt-01",
     titulo: "Shirt 01",
     img: {
-      src: "../images/shirts/01.jpg",
+      src: "./images/shirts/01.jpg",
     },
     categoria: {
       nombre: "Camisetas",
@@ -78,7 +78,7 @@ const productos = [
     id: "shirt-02",
     titulo: "Shirt 02",
     img: {
-      src: "../images/shirts/02.jpg",
+      src: "./images/shirts/02.jpg",
     },
     categoria: {
       nombre: "Camisetas",
@@ -90,7 +90,7 @@ const productos = [
     id: "shirt-03",
     titulo: "Shirt 03",
     img: {
-      src: "../images/shirts/03.jpg",
+      src: "./images/shirts/03.jpg",
     },
     categoria: {
       nombre: "Camisetas",
@@ -102,7 +102,7 @@ const productos = [
     id: "shirt-04",
     titulo: "Shirt 04",
     img: {
-      src: "../images/shirts/04.jpg",
+      src: "./images/shirts/04.jpg",
     },
     categoria: {
       nombre: "Camisetas",
@@ -114,7 +114,7 @@ const productos = [
     id: "shirt-05",
     titulo: "Shirt 05",
     img: {
-      src: "../images/shirts/05.jpg",
+      src: "./images/shirts/05.jpg",
     },
     categoria: {
       nombre: "Camisetas",
@@ -126,7 +126,7 @@ const productos = [
     id: "shirt-06",
     titulo: "Shirt 06",
     img: {
-      src: "../images/shirts/06.jpg",
+      src: "./images/shirts/06.jpg",
     },
     categoria: {
       nombre: "Camisetas",
@@ -138,7 +138,7 @@ const productos = [
     id: "shirt-07",
     titulo: "Shirt 07",
     img: {
-      src: "../images/shirts/07.jpg",
+      src: "./images/shirts/07.jpg",
     },
     categoria: {
       nombre: "Camisetas",
@@ -150,7 +150,7 @@ const productos = [
     id: "shirt-08",
     titulo: "Shirt 08",
     img: {
-      src: "../images/shirts/08.jpg",
+      src: "./images/shirts/08.jpg",
     },
     categoria: {
       nombre: "Camisetas",
@@ -163,7 +163,7 @@ const productos = [
     id: "shoe-01",
     titulo: "Shoe 01",
     img: {
-      src: "../images/shoes/01.jpg",
+      src: "./images/shoes/01.jpg",
     },
     categoria: {
       nombre: "Zapatillas",
@@ -175,7 +175,7 @@ const productos = [
     id: "shoe-02",
     titulo: "Shoe 02",
     img: {
-      src: "../images/shoes/02.jpg",
+      src: "./images/shoes/02.jpg",
     },
     categoria: {
       nombre: "Zapatillas",
@@ -187,7 +187,7 @@ const productos = [
     id: "shoe-03",
     titulo: "Shoe 03",
     img: {
-      src: "../images/shoes/03.jpg",
+      src: "./images/shoes/03.jpg",
     },
     categoria: {
       nombre: "Zapatillas",
@@ -199,7 +199,7 @@ const productos = [
     id: "shoe-04",
     titulo: "Shoe 04",
     img: {
-      src: "../images/shoes/04.jpg",
+      src: "./images/shoes/04.jpg",
     },
     categoria: {
       nombre: "Zapatillas",
@@ -211,7 +211,7 @@ const productos = [
     id: "shoe-05",
     titulo: "Shoe 05",
     img: {
-      src: "../images/shoes/05.jpg",
+      src: "./images/shoes/05.jpg",
     },
     categoria: {
       nombre: "Zapatillas",
@@ -223,7 +223,7 @@ const productos = [
     id: "shoe-06",
     titulo: "Shoe 06",
     img: {
-      src: "../images/shoes/06.jpg",
+      src: "./images/shoes/06.jpg",
     },
     categoria: {
       nombre: "Zapatillas",
@@ -235,7 +235,7 @@ const productos = [
     id: "shoe-07",
     titulo: "Shoe 07",
     img: {
-      src: "../images/shoes/07.jpg",
+      src: "./images/shoes/07.jpg",
     },
     categoria: {
       nombre: "Zapatillas",
@@ -247,7 +247,7 @@ const productos = [
     id: "shoe-08",
     titulo: "Shoe 08",
     img: {
-      src: "../images/shoes/08.jpg",
+      src: "./images/shoes/08.jpg",
     },
     categoria: {
       nombre: "Zapatillas",
@@ -259,7 +259,7 @@ const productos = [
     id: "shoe-09",
     titulo: "Shoe 09",
     img: {
-      src: "../images/shoes/09.jpg",
+      src: "./images/shoes/09.jpg",
     },
     categoria: {
       nombre: "Zapatillas",
