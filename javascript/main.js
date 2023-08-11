@@ -5,7 +5,7 @@ const productos = [
     id: "abrigo-01",
     titulo: "Abrigo 01",
     img: {
-      src: "../images/abrigos/01.jpg",
+      src: "./images/abrigos/01.jpg",
     },
     categoria: {
       nombre: "Abrigos",
